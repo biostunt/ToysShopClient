@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+#Если вы зашли в данный проект, то, пожалуйста, простите меня и закройте данный проект.
+
 Используемые языки
 
   - PHP
